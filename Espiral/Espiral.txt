@@ -1,0 +1,22 @@
+E2015 - Espiral
+
+Dado um tabuleiro de dimensões N x N, gostaríamos de colocar feijões, um grão em cada quadrado, seguindo uma espiral como mostrado na figura. Começando do canto superior esquerdo, com coordenadas (1,1), e depois indo para a direita enquanto possível, depois para baixo enquanto possível, depois para esquerda enquanto possível e depois para cima enquanto possível. Repetimos esse padrão, direita-baixo-esquerda-cima, até que B grãos de feijão sejam colocados no tabuleiro. O problema é: dados N e B, em que coordenadas será colocado o último grão de feijão? Na figura para N = 8 e B = 53, o último grão foi colocado no quadrado de coordenadas (4,6).
+
+
+Entrada 
+A entrada contém apenas uma linha com dois inteiros, N e B, onde 1 ≤ N ≤ 2 30 and 1 ≤ B ≤ N2 .
+
+Saída 
+Seu programa deve produzir uma única linha com dois inteiros L e C representando as coordenadas do último grão de feijão. 
+
+Exemplos
+Entrada:
+8 53
+
+Saída:
+4 6
+Entrada:
+1073741824 1152921504603393520
+
+Saída:
+536871276 536869983
