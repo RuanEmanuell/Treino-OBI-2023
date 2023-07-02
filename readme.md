@@ -1,4 +1,4 @@
-Exercícios feitos como treino para a Olimpíada Brasileira de Informatica de 2023. Está me ajudando bastante no exercício da lógica de programação, visto que os exercícios ficam progressivamente mais dificeis e desafiadores.
+Exercícios feitos como treino para a Olimpíada Brasileira de Informatica de 2023. Está me ajudando bastante no exercício da lógica de programação, visto que os exercícios ficam progressivamente mais dificeis e desafiadores. <br>
 Eu fiz a primeira parte dos exercícios na linguagem C, visto que era o que eu estava aprendendo na faculdade na disciplina de Algoritmos, mas mudei nos mais recentes para JavaScript, pois a complexidade aumenta muito, e uma linguagem mais flexível como o JavaScript está me ajudando bastante a resolver esses desafios.
 Pretendo me preparar para a fase 2 (estadual), então continuarei atualizando esse repositório em breve.
 
